@@ -20,4 +20,9 @@ Route::get('/1', function () {
 });
 
 
+Route::get('/2', function () {
+    return view('2');
+});
+
+
 

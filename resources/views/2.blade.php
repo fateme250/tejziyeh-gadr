@@ -85,10 +85,10 @@ h5{
 <body>
 
 <div id="text" class="verse">
-  <span id="v1" onmouseout="normal(this)" onmouseover="hover(this)">إِنَّا</span> 
-  <span id=v2 onmouseout="normal(this)" onmouseover="hover(this)">أَنزَلْنَا</span>
-  <span id=v3 onmouseout="normal(this)" onmouseover="hover(this)">ه</span>
-   <span id=v4 onmouseout="normal(this)" onmouseover="hover(this)">فِي</span>
+  <span id="v1" onmouseout="normal(this)" onmouseover="hover(this)">وَ</span> 
+  <span id=v2 onmouseout="normal(this)" onmouseover="hover(this)">ما</span>
+  <span id=v3 onmouseout="normal(this)" onmouseover="hover(this)">أَدْراكَ </span>
+   <span id=v4 onmouseout="normal(this)" onmouseover="hover(this)">ما </span>
     <span id=v5 onmouseout="normal(this)" onmouseover="hover(this)">لَيْلَةِ</span> 
     <span id=v6 onmouseout="normal(this)" onmouseover="hover(this)">الْقَدْرِ</span>
 </div>
@@ -102,12 +102,12 @@ h5{
 </div>
 
 <div id="tajziye" class="verse">
-    <span id=v1 onmouseout="normal(this)" onmouseover="hover(this)">حرف مشبه بالفعل  واسم ان(نا) خبر ان  ادامه جمله</span>
-    <span id=v2 onmouseout="normal(this)" onmouseover="hover(this)">فعل وفاعلش</span>
-    <span id=v3 onmouseout="normal(this)" onmouseover="hover(this)"> مفعول</span>
-    <span id=v4 onmouseout="normal(this)" onmouseover="hover(this)">جار</span>
-    <span id=v5 onmouseout="normal(this)" onmouseover="hover(this)">و مجرور متعلق به فعل انزلنا</span>
-    <span id=v6 onmouseout="normal(this)" onmouseover="hover(this)">  مضاف الیه لیله</span>
+    <span id=v1 onmouseout="normal(this)" onmouseover="hover(this)">الواو حرف استئناف</span>
+    <span id=v2 onmouseout="normal(this)" onmouseover="hover(this)">اسم استفهام مبتدأ </span>
+    <span id=v3 onmouseout="normal(this)" onmouseover="hover(this)">  ماض ومفعوله والفاعل مستتر والجملة خبر ما والجملة الاسمية مستأنفة</span>
+    <span id=v4 onmouseout="normal(this)" onmouseover="hover(this)">مبتدأ </span>
+    <span id=v5 onmouseout="normal(this)" onmouseover="hover(this)">وخبره </span>
+    <span id=v6 onmouseout="normal(this)" onmouseover="hover(this)">    مضاف إليه</span>
 </div>
 
 <h5>تفسیر  آیه</h3>
