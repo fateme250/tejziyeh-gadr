@@ -20,9 +20,21 @@ Route::get('/1', function () {
 });
 
 
+Route::get('/6', function () {
+    return view('0');
+});
+
 Route::get('/2', function () {
     return view('2');
 });
 
+Route::get('/3', function () {
+    return view('3');
+});
 
-
+Route::get('/4', function () {
+    return view('4');
+});
+Route::get('/5', function () {
+    return view('5');
+});
