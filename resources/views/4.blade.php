@@ -46,15 +46,35 @@
   transition: all 0.3s ease;
 
 }
+.verse span:nth-child(6) {
+  color: pink;
+  transition: all 0.3s ease;
+
+}
+.verse span:nth-child(7) {
+  color: lightgreen;
+  transition: all 0.3s ease;
+
+}
+.verse span:nth-child(8) {
+  color: lightblue;
+  transition: all 0.3s ease;
+
+}
+.verse span:nth-child(9) {
+  color: gray;
+  transition: all 0.3s ease;
+
+}
 h5{
   text-align:center;
   font-size:28px;
   color:#186F65;
-  margin-top: 10px;
+  margin-top: 30px;
 
 }
 .tafsir{
-  margin-top: -40px;
+  margin-top: -30px;
   width:80%; 
  padding:20px;
 
@@ -85,45 +105,70 @@ h5{
 <body>
 
 <div id="text" class="verse">
-  <span id="v1" onmouseout="normal(this)" onmouseover="hover(this)">وَ</span> 
-  <span id=v2 onmouseout="normal(this)" onmouseover="hover(this)">ما</span>
-  <span id=v3 onmouseout="normal(this)" onmouseover="hover(this)">أَدْراكَ </span>
-   <span id=v4 onmouseout="normal(this)" onmouseover="hover(this)">ما </span>
-    <span id=v5 onmouseout="normal(this)" onmouseover="hover(this)">لَيْلَةِ</span> 
-    <span id=v6 onmouseout="normal(this)" onmouseover="hover(this)">الْقَدْرِ</span>
+  <span id="v1" onmouseout="normal(this)" onmouseover="hover(this)">تَنَزَّلُ </span> 
+  <span id=v2 onmouseout="normal(this)" onmouseover="hover(this)">الْمَلائِكَةُ </span>
+  <span id=v3 onmouseout="normal(this)" onmouseover="hover(this)">وَ </span>
+   <span id=v4 onmouseout="normal(this)" onmouseover="hover(this)">الرُّوحُ </span>
+    <span id=v5 onmouseout="normal(this)" onmouseover="hover(this)">فِيها </span> 
+    <span id=v6 onmouseout="normal(this)" onmouseover="hover(this)">بِإِذْنِ </span>
+    <span id=v7 onmouseout="normal(this)" onmouseover="hover(this)">رَبِّهِمْ  </span>
+    <span id=v8 onmouseout="normal(this)" onmouseover="hover(this)">مِنْ كُلِّ  </span>
+    <span id=v9 onmouseout="normal(this)" onmouseover="hover(this)">أَمْرٍ  </span>
+
 </div>
 <div id="translation" class="verse">
-    <span id=v1 onmouseout="normal(this)" onmouseover="hover(this)">همانا ما</span>
-    <span id=v2 onmouseout="normal(this)" onmouseover="hover(this)"> فرو فرستادیم</span>
-    <span id=v3 onmouseout="normal(this)" onmouseover="hover(this)"> آن را</span>
-    <span id=v4 onmouseout="normal(this)" onmouseover="hover(this)">در</span>
-    <span id=v5 onmouseout="normal(this)" onmouseover="hover(this)">شب</span>
-    <span id=v6 onmouseout="normal(this)" onmouseover="hover(this)"> قدر</span>
+    <span id=v1 onmouseout="normal(this)" onmouseover="hover(this)">نازل میشوند</span>
+    <span id=v2 onmouseout="normal(this)" onmouseover="hover(this)"> فرشتگان</span>
+    <span id=v3 onmouseout="normal(this)" onmouseover="hover(this)"> و </span>
+    <span id=v4 onmouseout="normal(this)" onmouseover="hover(this)">روح</span>
+    <span id=v5 onmouseout="normal(this)" onmouseover="hover(this)"> در شب قدر</span>
+    <span id=v6 onmouseout="normal(this)" onmouseover="hover(this)"> به اذن</span>
+    <span id=v7 onmouseout="normal(this)" onmouseover="hover(this)"> پروردگارشان</span>
+    <span id=v8 onmouseout="normal(this)" onmouseover="hover(this)">     برای هر  </span>
+    <span id=v9 onmouseout="normal(this)" onmouseover="hover(this)">  کاری</span>
+
+
 </div>
 
 <div id="tajziye" class="verse">
-    <span id=v1 onmouseout="normal(this)" onmouseover="hover(this)">الواو حرف استئناف</span>
-    <span id=v2 onmouseout="normal(this)" onmouseover="hover(this)">اسم استفهام مبتدأ </span>
-    <span id=v3 onmouseout="normal(this)" onmouseover="hover(this)">  ماض ومفعوله والفاعل مستتر والجملة خبر ما والجملة الاسمية مستأنفة</span>
-    <span id=v4 onmouseout="normal(this)" onmouseover="hover(this)">مبتدأ </span>
-    <span id=v5 onmouseout="normal(this)" onmouseover="hover(this)">وخبره </span>
-    <span id=v6 onmouseout="normal(this)" onmouseover="hover(this)">    مضاف إليه</span>
+    <span id=v1 onmouseout="normal(this)" onmouseover="hover(this)">فعل مضارع و مرفوع</span>
+    <span id=v2 onmouseout="normal(this)" onmouseover="hover(this)">فاعل تنزل و مرفوع</span>
+    <span id=v3 onmouseout="normal(this)" onmouseover="hover(this)">  حرف عطف</span>
+    <span id=v4 onmouseout="normal(this)" onmouseover="hover(this)">معطوف بر ملاِیکه و مرفوع </span>
+    <span id=v5 onmouseout="normal(this)" onmouseover="hover(this)">جا و مجرور متعلق به تنزل </span>
+    <span id=v6 onmouseout="normal(this)" onmouseover="hover(this)">جا و مجرور متعلق به تنزل </span>
+    <span id=v7 onmouseout="normal(this)" onmouseover="hover(this)">مضاف إليه به اذن</span>
+    <span id=v8 onmouseout="normal(this)" onmouseover="hover(this)">جا و مجرور متعلق به تنزل </span>
+    <span id=v9 onmouseout="normal(this)" onmouseover="hover(this)">    مضاف إليه به کل</span>
+   
+
 </div>
 
 <h5>تفسیر  آیه</h3>
 <div class="tafsir">
-خداوند،امور عالم را از طریق فرشتگان و با واسطه آنان به انجام می رساند.لذا در بسیاری از آیات قرآن،فعل ها و ضمیرهای مربوط به خداوند به صورت جمع آمده است.چنانکه در آغاز این سوره می فرماید: «إِنّا أَنْزَلْناهُ» ما قرآن را نازل کردیم. <br>
-بر اساس نظر مفسّران،قرآن دو بار نازل شده است.یکبار به صورت یکپارچه در شب قدر که این سوره به آن اشاره دارد و بار دیگر به صورت تدریجی در مدت بیست و سه سال دوره رسالت پیامبر.تعبیرات قرآن نیز درباره نزول این کتاب آسمانی دو گونه است.برخی با واژه«انزلنا»از ریشه انزال به معنای نزول دفعی آمده و برخی دیگر با واژه«نزلنا»از ریشه تنزیل به معنای نزول تدریجی آمده است. <br>
-از انضمام آیه «إِنّا أَنْزَلْناهُ فِی لَیْلَهِ الْقَدْرِ» با آیه «شَهْرُ رَمَضانَ الَّذِی أُنْزِلَ فِیهِ الْقُرْآنُ» معلوم می شود که شب قدر در ماه رمضان است،امّا اینکه کدام یک از شب های ماه رمضان است،در قرآن چیزی بر آن دلالت ندارد و در روایات نیز به صورت مردّد میان یکی از سه شب آمده است.چنانکه از امام صادق علیه السلام در مورد شب قدر پرسیدند:آن حضرت فرمود:در
-<br>
-شب نوزدهم،بیست و یکم و بیست و سوم رمضان جستجویش کن.البته معروف میان اهل سنّت آن است که شب بیست و هفتم رمضان،شب قدر است.
+ز امام صادق عليه السلام پرسيدند: آيا روح همان جبرئيل است؟ فرمود: جبرئيل از ملائكه است و روح برتر از ملائكه است. سپس اين آيه را تلاوت فرمودند: تَنَزَّلُ الْمَلائِكَةُ وَ الرُّوحُ‌ ..
+
+با نزول فرشتگان بر قلب پيامبر و امام معصوم در شب قدر، ارتباط زمين با آسمان، مُلك با ملكوت و طبيعت با ماوراء طبيعت برقرار مى‌شود.<br>
+
+روح انواعى دارد:<br>
+
+- روحى كه منشأ تمايلات و شهوات است.<br>
+
+- روحى كه منشأ قدرت و حركات است. اين دو روح، مشترك ميان انسان و حيوان است.<br>
+
+- روحى كه منشأ اختيار و انديشه است، كه اين روح مختص انسان است.<br>
+
+- روحى كه عقل محض است و جوهر وجودى فرشتگان را تشكيل مى‌دهد.<br>
+
+- روحى كه برتر از فرشتگان است و شب قدر همراه آنان به زمين نازل مى‌شود.<br>
+
+در روايات آمده است كه با منكران امامت، با سوره قدر احتجاج كنيد.  زيرا بر اساس اين سوره، فرشتگان هر سال در شب قدر نازل مى‌شوند. در زمان حيات پيامبر بر وجود شريف حضرتش وارد مى‌شدند. پس از آن حضرت بر چه كسانى نازل مى‌شوند؟
+
+روشن است كه هر كسى نمى‌تواند ميزبان فرشتگان الهى باشد و بايد او همچون پيامبر، معصوم بوده و ولايت امور بشر به عهده او باشد و او كسى جز امام معصوم نيست كه در زمان ما، حضرت مهدى عليه السلام مى‌باشد و فرشتگان در شب قدر شرفياب محضرش مى‌شوند
 
 </div>
 
-<div class="note">
-1- شب قدر،شب شکرگزاری و تشکر از خداوند است.زیرا مهم ترین نعمت خداوند بر بشر،یعنی قرآن نازل شده است. «إِنّا أَنْزَلْناهُ فِی لَیْلَهِ الْقَدْرِ» <br>
-2- ظرف و مظروف باید متناسب باشند.بهترین کتاب در بهترین شب بر بهترین انسان ها نازل می شود. «إِنّا أَنْزَلْناهُ فِی لَیْلَهِ الْقَدْرِ»
-</div>
+
 
 <script>
   function normal(x) {

@@ -93,12 +93,12 @@ h5{
     <span id=v6 onmouseout="normal(this)" onmouseover="hover(this)">الْقَدْرِ</span>
 </div>
 <div id="translation" class="verse">
-    <span id=v1 onmouseout="normal(this)" onmouseover="hover(this)">همانا ما</span>
-    <span id=v2 onmouseout="normal(this)" onmouseover="hover(this)"> فرو فرستادیم</span>
-    <span id=v3 onmouseout="normal(this)" onmouseover="hover(this)"> آن را</span>
-    <span id=v4 onmouseout="normal(this)" onmouseover="hover(this)">در</span>
+    <span id=v1 onmouseout="normal(this)" onmouseover="hover(this)">و </span>
+    <span id=v2 onmouseout="normal(this)" onmouseover="hover(this)"> چه </span>
+    <span id=v3 onmouseout="normal(this)" onmouseover="hover(this)">  می دانی تو</span>
+    <span id=v4 onmouseout="normal(this)" onmouseover="hover(this)">چیست</span>
     <span id=v5 onmouseout="normal(this)" onmouseover="hover(this)">شب</span>
-    <span id=v6 onmouseout="normal(this)" onmouseover="hover(this)"> قدر</span>
+    <span id=v6 onmouseout="normal(this)" onmouseover="hover(this)"> قدر؟</span>
 </div>
 
 <div id="tajziye" class="verse">
